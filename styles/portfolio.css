@@ -47,4 +47,16 @@ body{
     color: white !important;
     font-family: 'Red Hat Display', sans-serif;
  }
+ .second{
+    text-align: center;
+    color: aliceblue;
+    font-family:'Red Hat Display',
+        sans-serif;
+ }
+ .name{
+    color: #ff63d8;
+ }
+ .bottom{
+    margin-top: 388px;
+ }
 
