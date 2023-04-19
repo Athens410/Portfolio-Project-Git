@@ -64,5 +64,10 @@ body{
     position: relative;
     top: -288px;
  }
+ .graphs{
+    color: aliceblue;
+    font-family: 'Red Hat Display', sans-serif;
+    
+ }
  
 
