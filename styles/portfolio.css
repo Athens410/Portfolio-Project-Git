@@ -1,32 +1,40 @@
 
+
+:root {
+   
+    --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+}
+
 .hero{
-    background-color: aqua;
+    background-image: url('/img/startlight.jpg');
+        background-size: cover;
     text-align: center;
     padding: 55px;
 }
 .hero p{
-    color: blue;
+    color: rgb(255, 255, 255);
     font-family: 'Red Hat Display', sans-serif;
     font-size: 20px;
     font-weight: normal;
 }
 .hero h1{
-    color: blueviolet;
+    color: rgb(241, 240, 243);
     font-family: 'Red Hat Display', sans-serif;
     font-size: 55px;
     font-weight: normal;
 }
 .hero h2{
-    color: rgb(9, 202, 131);
+    color: rgb(255, 255, 255);
     font-family: 'Red Hat Display', sans-serif;
     font-size: 33px;
     font-weight: normal;
 }
 .first{
-    background: #6C63FF;
+    background: #ff63d8;
         border-radius: 8px;
         color: azure;
         padding: 12px 20px;
+        box-shadow: var(--box-shadow);
     
 }
  .navbar-nav .nav-link {
