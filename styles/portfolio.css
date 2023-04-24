@@ -63,6 +63,7 @@ body{
     color: #ff63d8;
     position: relative;
     top: -288px;
+    font-size: medium;
  }
  .graphs{
     color: aliceblue;
@@ -75,6 +76,9 @@ body{
     border-radius: 20px;
     border: #ff63d8;
     padding: 22px;
+   margin-bottom: 333px;
+   
+   
  }
  .btn:hover{
     color: rgb(202, 0, 248);
