@@ -67,7 +67,18 @@ body{
  .graphs{
     color: aliceblue;
     font-family: 'Red Hat Display', sans-serif;
-    
+
+ }
+ .btn{
+    color: rgb(255, 255, 255);
+    background-color: #ff63d8;
+    border-radius: 20px;
+    border: #ff63d8;
+    padding: 22px;
+ }
+ .btn:hover{
+    color: rgb(202, 0, 248);
+    background: linear-gradient(110.1deg, rgb(34, 126, 34) 2.9%, rgb(168, 251, 60) 90.3%);
  }
  
 
