@@ -14,13 +14,13 @@ body{
     padding: 55px;
 }
 .hero p{
-    color: rgb(255, 255, 255);
+   color: #ffff;
     font-family: 'Red Hat Display', sans-serif;
     font-size: 20px;
     font-weight: normal;
 }
 .hero h1{
-    color: rgb(241, 240, 243);
+   color: #ffff;
     font-family: 'Red Hat Display', sans-serif;
     font-size: 55px;
     font-weight: normal;
@@ -34,7 +34,7 @@ body{
 .first{
     background: #ff63d8;
         border-radius: 8px;
-        color: azure;
+      color: #ffff;
         padding: 12px 20px;
         box-shadow: var(--box-shadow);
     
@@ -49,7 +49,7 @@ body{
  }
  .second{
     text-align: center;
-    color: aliceblue;
+   color: #ffff;
     font-family:'Red Hat Display',
         sans-serif;
  }
@@ -72,7 +72,7 @@ body{
 
  }
  .btn{
-    color: rgb(255, 255, 255);
+   color: #ffff;
     background-color: #ff63d8;
     border-radius: 20px;
     border: #ff63d8;
@@ -97,4 +97,10 @@ body{
 }
 .name:hover{
    color: blue;
+}
+.rue{
+   font-size: small;
+   text-align: center;
+   font-family: 'Red Hat Display', sans-serif;
+   color: #ffff;
 }
