@@ -58,6 +58,7 @@ body{
  }
  .bottom{
     margin-top: 388px;
+   
  }
  .graph{
     color: #ff63d8;
@@ -83,6 +84,12 @@ body{
  .btn:hover{
     color: rgb(202, 0, 248);
     background: linear-gradient(110.1deg, rgb(34, 126, 34) 2.9%, rgb(168, 251, 60) 90.3%);
+ }
+ .nav-item .nav-link{
+    color: #ff63d8a2;
+ }
+ .fa-brands{
+    color: rgb(174, 0, 255);
  }
  
 
